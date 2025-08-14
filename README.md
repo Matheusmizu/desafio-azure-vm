@@ -65,6 +65,4 @@ Durante o desafio, pude:
 - [Documentação Oficial - Criar uma VM Windows no Azure](https://learn.microsoft.com/pt-br/azure/virtual-machines/windows/quick-create-portal)
 - [Portal do Azure](https://portal.azure.com)
 
----
 
-💡 *Desafio concluído com sucesso!*
