@@ -37,13 +37,17 @@ O foco foi entender o processo de provisionamento de recursos na nuvem, testar a
 
 ## 📷 Capturas de Tela
 
-> As imagens estão na pasta `/images` deste repositório.
+### 1️⃣ Acessando o Portal Azure
+![Portal Azure](./images/Portal-Azure.png)
 
-- Tela de criação da VM  
-  ![Criação da VM](./images/criacao-vm.png)
+### 2️⃣ Criando a Máquina Virtual
+![Criação da VM](./images/criacao-vm.png)
 
-- VM em execução no Portal Azure  
-  ![VM em execução](./images/vm-execucao.png)
+### 3️⃣ Implantação da VM
+![Implantação da VM](./images/Implantação-vm.png)
+
+### 4️⃣ VM em execução
+![VM em Execução](./images/vm-execucao.png)
 
 ---
 
