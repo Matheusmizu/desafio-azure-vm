@@ -58,6 +58,7 @@ Durante o desafio, pude:
 - Entender a importância da escolha correta de **região** e **tamanho da VM** para desempenho e custo.
 - Aprender a **habilitar portas de rede** e configurar acesso remoto com segurança.
 - Experimentar a **conexão via RDP** para administração da máquina.
+- Entender os benefecios da Nuvem
 
 ---
 
